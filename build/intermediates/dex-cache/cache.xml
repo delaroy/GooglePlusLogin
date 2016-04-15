@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\pre-dexed\debug\classes-6254a90cbefece9e5f0564803ac0982239bda614.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\pre-dexed\debug\classes-8c0147016c8ce5dee5c98d49a186b26f0d98aa6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\pre-dexed\debug\classes-72237bb10c3cec08d77e8b300b8ced50a0844a56.jar" />
+    </item>
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-0f27f3f2e6baf84001d2afa8230a137d4b3eaf12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-3986a59c79b9676104e47e47247bb83bacf5d21c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Shade\Desktop\projects\GooglePlusLogin\GooglePlusLogin\app\build\intermediates\pre-dexed\debug\classes-e700d07af1a05a4cfa94ce83e754bfa609ea2a93.jar" />
+    </item>
+
+</items>
